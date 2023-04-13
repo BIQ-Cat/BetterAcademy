@@ -3,9 +3,9 @@
 <header>
 	<nav>
 		<ul>
+			<li>About</li>
 			<li>Courses</li>
-			<li>Professions</li>
-			<li>Languages</li>
+			<li>Reviews</li>
 		</ul>
 	</nav>
 	<div class="account">
